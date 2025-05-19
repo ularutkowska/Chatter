@@ -1,0 +1,17 @@
+﻿@Model Chatter.Models.User
+
+<form method="post" asp-action="Register">
+    <div class="form-group">
+        <label for="Username">Username</label>
+        <input type="text" class="form-control" id="Username" name="username" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="email" required />
+    </div>
+    <div class="form-group">
+        <label for="Password">Password</label>
+        <input type="password" class="form-control" id="Password" name="password" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
