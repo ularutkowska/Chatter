@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Chatter.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250513171107_init")]
+    [Migration("20250519173810_init")]
     partial class init
     {
         /// <inheritdoc />

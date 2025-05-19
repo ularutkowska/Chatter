@@ -171,3 +171,4 @@ C:\Users\ulkar\Desktop\Chatter\Chatter\obj\Debug\net8.0\refint\Chatter.dll
 C:\Users\ulkar\Desktop\Chatter\Chatter\obj\Debug\net8.0\Chatter.pdb
 C:\Users\ulkar\Desktop\Chatter\Chatter\obj\Debug\net8.0\Chatter.genruntimeconfig.cache
 C:\Users\ulkar\Desktop\Chatter\Chatter\obj\Debug\net8.0\ref\Chatter.dll
+C:\Users\ulkar\Desktop\Chatter\Chatter\obj\Debug\net8.0\Chatter.sourcelink.json
