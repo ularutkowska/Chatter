@@ -9,7 +9,7 @@ namespace Chatter.Controllers
         {
             if(!User.Identity.IsAuthenticated)
             {
-                ReturnTypeEncoder RedirectToAction("Login", "User");
+                return RedirectToAction("Login", "User");
             }
             return View();
         }

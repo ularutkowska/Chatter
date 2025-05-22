@@ -11,7 +11,7 @@ namespace Chatter.Controllers
         private readonly IUserService _userService;
         private readonly SignInManager<User> _signInManager;
 
-        public UserController(IUserService userService)
+        public UserController(IUserService userService, SignInManager<User> signInManager)
         {
             _userService = userService;
             _signInManager = signInManager;
