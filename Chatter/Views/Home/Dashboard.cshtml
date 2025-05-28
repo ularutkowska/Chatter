@@ -1,5 +1,46 @@
-﻿@{
-    var user = User.Identity.Name;
-}
+﻿@model IEnumerable<dynamic>
 
-<h1>Hi Hi Hello, @user!</h1>
+<h2>Dashboard</h2>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        <div class="post">
+            <div class="post-header">
+                <h3>@item.Post.User.UserName</h3>
+                <p>@item.Post.Date.ToString("g")</p>
+            </div>
+
+            <p>@item.Post.Content</p>
+
+            @if (!string.IsNullOrEmpty(item.Post.ImageUrl))
+            {
+                <img src="@item.Post.ImageUrl" alt="Post Image" class="img-fluid" />
+            }
+
+            <div class="post-actions">
+                <div class="like-section">
+                    @if (item.IsLiked)
+                    {
+                        <form method="post" asp-action="RemoveLike" asp-route-postId="@item.Post.Id">
+                            <button type="submit" class="btn btn-danger">Unlike</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form method="post" asp-action="AddLike" asp-route-postId="@item.Post.Id">
+                            <button type="submit" class="btn btn-success">Like</button>
+                        </form>
+                    }
+
+                    <p>@item.LikeCount Likes</p>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p><em>Brak postów do wyświetlenia.</em></p>
+}

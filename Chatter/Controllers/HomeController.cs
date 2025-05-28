@@ -7,10 +7,6 @@ namespace Chatter.Controllers
     {
         public IActionResult Dashboard()
         {
-            if(!User.Identity.IsAuthenticated)
-            {
-                return RedirectToAction("Login", "User");
-            }
             return View();
         }
     }

@@ -8,16 +8,26 @@ namespace Chatter.Controllers
     public class PostController : Controller
     {
         private readonly IPostService _postService;
+        private readonly ILikeService _likeService;
 
-        public PostController(IPostService postService)
+        public PostController(IPostService postService, ILikeService likeService)
         {
             _postService = postService;
+            _likeService = likeService;
         }
 
         public async Task<IActionResult> Index()
         {
-            var posts = await _postService.GetAllPostsAsync();    
-            return View(posts);
+            var posts = await _postService.GetAllPostsAsync();
+
+            var postsWithLikeInfo = posts.Select(post => new
+            {
+                Post = post,
+                LikeCount = _likeService.GetLikesCountAsync(post.Id).Result, 
+                IsLiked = _likeService.IsLikedAsync(post.Id, User.FindFirstValue(ClaimTypes.NameIdentifier)).Result
+            }).ToList();
+
+            return View(postsWithLikeInfo);
         }
 
         public async Task<IActionResult> Details(int id)
