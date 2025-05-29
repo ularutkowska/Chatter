@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +31,28 @@
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\services\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +67,8 @@
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{662CABB6-F51A-4D80-A12B-A5D4E5464BAA}|Chatter.csproj|c:\\users\\ulkar\\desktop\\chatter\\chatter\\chatter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -101,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,6 +118,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:43:08.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T20:12:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:45:12.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:35:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "Controllers\\LikeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:17:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T20:09:29.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:42:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\MessageService.cs",
+              "RelativeToolTip": "Services\\MessageService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:13:48.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -129,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "LikeService.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\LikeService.cs",
               "RelativeDocumentMoniker": "Services\\LikeService.cs",
@@ -137,25 +249,37 @@
               "RelativeToolTip": "Services\\LikeService.cs",
               "ViewState": "AQIAACsAAAAAAAAAAADwvwsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:21:14.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:21:14.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LikeController.cs",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\LikeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LikeController.cs",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\LikeController.cs",
-              "RelativeToolTip": "Controllers\\LikeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:17:18.501Z",
+              "WhenOpened": "2025-05-29T11:35:42.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:34:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "Services\\CommentService.cs",
@@ -168,33 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T20:35:22.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T21:34:55.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -202,12 +300,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T20:46:00.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T20:46:00.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -219,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
@@ -227,36 +324,24 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:27:04.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T16:27:04.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Models\\Message.cs",
               "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\Message.cs",
               "RelativeToolTip": "Models\\Message.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:33:55.77Z"
+              "WhenOpened": "2025-05-13T16:33:55.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "Views\\User\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T20:09:29.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "PostService.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\PostService.cs",
               "RelativeDocumentMoniker": "Services\\PostService.cs",
@@ -268,20 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T20:43:08.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Chatter.csproj",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Chatter.csproj",
               "RelativeDocumentMoniker": "Chatter.csproj",
@@ -293,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -305,19 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAADwvwsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:45:12.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -329,33 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwCIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:42:39.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "Views\\User\\Login.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T20:12:40.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -367,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Like.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\Like.cs",
               "RelativeDocumentMoniker": "Models\\Like.cs",
@@ -375,12 +409,11 @@
               "RelativeToolTip": "Models\\Like.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:32:28.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T16:32:28.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250519173810_init.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Migrations\\20250519173810_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250519173810_init.cs",
@@ -392,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\Chatter\\Chatter\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -404,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ulkar\\Desktop\\sem6\\FINALZESPOLOWY\\pz2024-kin-repo\\filmpump\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\sem6\\FINALZESPOLOWY\\pz2024-kin-repo\\filmpump\\appsettings.json",
